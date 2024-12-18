@@ -22,7 +22,6 @@ This repository contains notebooks and resources to help you learn the foundatio
    - Introduction to Pandas for data manipulation and analysis.
    - Explore concepts such as dataframes, indexing, filtering, and statistical operations.
 
----
 
 ## How to Use
 
