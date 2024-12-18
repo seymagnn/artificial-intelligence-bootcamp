@@ -1,1 +1,1 @@
-# artificial-intelligence-bootcamp
+# Artificial Intelligence Bootcamp
