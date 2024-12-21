@@ -22,6 +22,10 @@ This repository contains notebooks and resources to help you learn the foundatio
    - Introduction to Pandas for data manipulation and analysis.
    - Explore concepts such as dataframes, indexing, filtering, and statistical operations.
 
+5. **`matplotlib`**
+- Contains resources and notebooks for learning Matplotlib.
+- Explore data visualization techniques, including plots, charts, and customization options.
+
 
 ## How to Use
 
@@ -30,6 +34,7 @@ This repository contains notebooks and resources to help you learn the foundatio
 - For advanced Python topics, visit [python_intro2.ipynb](./python_intro2.ipynb).
 - To dive into numerical computations, refer to [numpy.ipynb](./numpy.ipynb).
 - For data manipulation, explore [pandas.ipynb](./pandas.ipynb).
+- For data visualization, explore the resources in the `matplotlib` folder.
 
 ## Contributing
 
