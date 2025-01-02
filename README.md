@@ -34,7 +34,7 @@ This repository contains notebooks and resources to help you learn the foundatio
 - For advanced Python topics, visit [python_intro2.ipynb](./python_intro2.ipynb).
 - To dive into numerical computations, refer to [numpy.ipynb](./numpy.ipynb).
 - For data manipulation, explore [pandas.ipynb](./pandas.ipynb).
-- For data visualization, explore the resources in the `matplotlib` folder.
+- For data visualization, explore the resources in the `matplotlib`and `data visualizations and analysis` folder.
 
 ## Contributing
 
