@@ -22,7 +22,7 @@ This repository contains notebooks and resources to help you learn the foundatio
    - Introduction to Pandas for data manipulation and analysis.
    - Explore concepts such as dataframes, indexing, filtering, and statistical operations.
 
-5. **`matplotlib`**
+5. **`matplotlib` and  `data visualizations and analysis`**
 - Contains resources and notebooks for learning Matplotlib.
 - Explore data visualization techniques, including plots, charts, and customization options.
 
